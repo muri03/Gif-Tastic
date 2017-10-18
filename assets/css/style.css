@@ -1,0 +1,15 @@
+body {
+    background-color: #cbdbd9;
+    font-family: "Playfair Display SC', Helvetica Neue", Helvetica, "Arial serif", "Times New Roman";
+    font-size: 18px;
+    padding: 20px;
+
+}
+#wrapper {
+	margin: 960px;
+}
+img {
+	width: 40%;
+    height: 250px;
+    margin-bottom: 0;
+}
